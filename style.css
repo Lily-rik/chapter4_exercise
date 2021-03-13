@@ -21,6 +21,26 @@
   height: 1400px;
   background-color: green;
   margin: 0 auto;
+  display: flexbox;
+  justify-content: center;
+}
+
+.left-sidebar {
+  width: 230px;
+  height: 1400px;
+  background-color: palegreen;
+}
+
+.blog {
+  width: 500px;
+  height: 1400px;
+  background-color: limegreen;
+}
+
+.right-sidebar {
+  width: 230px;
+  height: 1400px;
+  background-color: palegreen;
 }
 
 .footer {
